@@ -1,0 +1,15 @@
+{
+  "name": "hackercodeapp",
+  "version": "1.0.0",
+  "description": "Toca teclas al azar y simula que escribes codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
